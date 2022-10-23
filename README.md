@@ -11,7 +11,7 @@
 * graph_cache.pkl: cache file of graphs
 * translated_ent_name: entity names translated by Google translator
 
-Due to the limitation of upload file size, the DBP1M dataset is not included here.
+Due to the limitation of upload file size, the DBP1M dataset is not included here. You can download it from https://github.com/ZJU-DAILY/LargeEA.
 
 ## Environment
 
